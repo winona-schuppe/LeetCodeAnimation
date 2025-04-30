@@ -24,8 +24,7 @@
 | 0    | [十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg) |                                                              |
 | 1    | [两数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第1号问题：两数之和.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/av47v.gif) |
 | 2    | [两数相加](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第2号问题：两数相加.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz933.gif) |
-| 3    | [无重复字符的最长子串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第3号问题：无重复字符的最长子串.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 4    | [寻找两个有序数组的中位数](https://mp.weixin.qq.com/s/FBlH7o-ssj_iMEPLcvsY2w) |                                                              |
+| 3    | [无重复字符的最长子串](https://github.com/MisterBooo/Le                                                            |
 | 9    | [回文数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第9号问题：回文数.md) |                                                              |
 | 10   | [正则表达式匹配](https://mp.weixin.qq.com/s/ZoytuPt5dfP5pMODbuKnCQ) |                                                              |
 | 11   | [盛最多水的容器](https://mp.weixin.qq.com/s/0PCW-7JzU8rfrLA5GQmFiQ) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/en8u4.gif) |
